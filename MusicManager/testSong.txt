@@ -1,0 +1,7 @@
+song four four 400 4
+song three three 300 3
+song two two 200 2
+song one one 100 1
+song eight eight 800 8
+song six six 600 6
+quit
